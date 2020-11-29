@@ -2,7 +2,7 @@ from keystoneauth1 import session
 from keystoneauth1.identity import v3
 import swiftclient.client
 
-_auth_url = 'http://100.0.0.187:5000/v3'
+_auth_url = 'openstack_v3_auth_url'
 _user = 'change_it'
 _key = 'change_it'
 
